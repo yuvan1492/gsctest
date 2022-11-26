@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.7facec14.chunk.css",
-    "main.js": "./static/js/main.30eb87ce.chunk.js",
-    "main.js.map": "./static/js/main.30eb87ce.chunk.js.map",
+    "main.css": "./static/css/main.6cb2414f.chunk.css",
+    "main.js": "./static/js/main.56ec28e0.chunk.js",
+    "main.js.map": "./static/js/main.56ec28e0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.2e63fbda.chunk.js": "./static/js/2.2e63fbda.chunk.js",
-    "static/js/2.2e63fbda.chunk.js.map": "./static/js/2.2e63fbda.chunk.js.map",
+    "static/js/2.ea5101fc.chunk.js": "./static/js/2.ea5101fc.chunk.js",
+    "static/js/2.ea5101fc.chunk.js.map": "./static/js/2.ea5101fc.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.bde4fa7a28fe3e0b8a39c3f46c619f2e.js": "./precache-manifest.bde4fa7a28fe3e0b8a39c3f46c619f2e.js",
+    "precache-manifest.ccecf132d46bb9b07b242fa19d11e928.js": "./precache-manifest.ccecf132d46bb9b07b242fa19d11e928.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.7facec14.chunk.css.map": "./static/css/main.7facec14.chunk.css.map",
+    "static/css/main.6cb2414f.chunk.css.map": "./static/css/main.6cb2414f.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Basic Animations.svg": "./static/media/Basic Animations.9c859101.svg",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.be4f4800.png",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
@@ -31,6 +32,7 @@
     "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "./static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.a6addc3f.svg",
+    "static/media/gsc.png": "./static/media/gsc.34573cb0.png",
     "static/media/gsctest.gif": "./static/media/gsctest.bc6244c4.gif",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "./static/media/iiitk_logo.571a8584.png",
@@ -48,12 +50,13 @@
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/test.mp4": "./static/media/test.c134ddf2.mp4",
+    "static/media/test2.mp4": "./static/media/test2.19ccc9f6.mp4",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.2e63fbda.chunk.js",
-    "static/css/main.7facec14.chunk.css",
-    "static/js/main.30eb87ce.chunk.js"
+    "static/js/2.ea5101fc.chunk.js",
+    "static/css/main.6cb2414f.chunk.css",
+    "static/js/main.56ec28e0.chunk.js"
   ]
 }
